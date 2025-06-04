@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">リソースをアプリで切り替える</string>
+    <string name="button_text">言語切り替え</string>
+    <string name="text">こんにちは 世界！</string>
+</resources>

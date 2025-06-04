@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChangeResourceLocale</string>
+    <string name="button_text">Change Locale</string>
+    <string name="text">Hello World!</string>
+</resources>
